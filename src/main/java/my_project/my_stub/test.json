@@ -1,0 +1,17 @@
+{
+  "fullName": {
+    "firstName": "Иван",
+    "middleName": "Иванович",
+    "lastName": "Иванов"
+  },
+  "dateOfBirth": "1990-01-01",
+  "phoneNumber": "+71234567890",
+  "address": {
+    "country": "Россия",
+    "city": "Москва",
+    "street": "Ленина",
+    "houseNumber": "12",
+    "apartmentNumber": "34"
+  },
+  "nationality": "Россия"
+}
